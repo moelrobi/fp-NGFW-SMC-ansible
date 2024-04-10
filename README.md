@@ -1,3 +1,6 @@
+# Caution!
+This is an updated version used at the FH-Münster. This includes a updated and heavily modified version of the code.
+
 ## fp-NGFW-SMC-ansible
 
 This repository provides [Ansible](https://www.ansible.com)  modules for configuration and automation of [Forcepoint NGFW Next Generation Firewall](https://www.forcepoint.com/product/network-security/forcepoint-ngfw). It uses the [smc-python](https://github.com/Forcepoint/fp-NGFW-SMC-python) for all operations between the ansible client and the Forcepoint NGFW Management Center.

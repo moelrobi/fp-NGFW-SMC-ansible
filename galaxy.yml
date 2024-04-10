@@ -1,0 +1,18 @@
+namespace: forcepoint
+name: smc
+
+version: 1.0.0
+readme: README.md
+
+authors:
+  - Robin Möller <r.moeller@fh-muenster.de>
+
+description: This role provides a set of modules to manage Forcepoint Security Management Center (SMC) objects.
+license: Apache-2.0
+license_file: LICENSE
+
+tags:
+  - forcepoint
+  - smc
+  - firewall
+  - networking
